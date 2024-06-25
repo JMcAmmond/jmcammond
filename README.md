@@ -9,7 +9,7 @@
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-bd34fe?style=for-the-badge&logo=vite&logoColor=white" /><br />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-bd34fe?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />

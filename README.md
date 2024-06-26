@@ -1,9 +1,12 @@
-### Hi there, I'm Jeff 👋
+<h3 align="center">Hi there, I'm Jeff 👋</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jmcammond&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jmcammond&theme=vue-dark&hide_border=true" align="center" />
+</p>
 
-#### Things I like to use
-<p>
+<h4 align="center">Things I like to use:</h4>
+
+<p align="center" width="500px">
   <img alt="React" src="https://img.shields.io/badge/-React-087ea4?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=white" />
